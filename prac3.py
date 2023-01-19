@@ -2,11 +2,12 @@
 
 strs = ['eat','tea','tan','ate','nat','bat']
 
-dictionary = {i : strs[i] for i in range(len(strs))}
-# str1 = ','.join(s for s in strs)
-# strs = 
+# dictionary = {i : strs[i] for i in range(len(strs))}
 
-print(dictionary)
+str1 = ''.join(s for s in strs)
+# strs = 
+print(str1)
+# print(dictionary)
 # str2 = []
 # strstr2.append(str1)
 # str2.sort()
