@@ -47,6 +47,6 @@ def find_thief(entry_count, exit_count):
 
 print('입장 기록 많은 Top3')
 max_entry(entry_count)
-print('출입 기록이 수상한 사람')
+print('\n출입 기록이 수상한 사람')
 find_thief(entry_count, exit_count)
 

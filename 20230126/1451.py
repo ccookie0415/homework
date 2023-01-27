@@ -9,13 +9,4 @@ num_dic=[]
 for i in num:
     num_dic.append(i)
 
-print(num_dic)
-# def sum_of_digit(num):
-#     num_dic = []
-#     sum_1 = 0
-#     # num = ','.join(num)
-#     for i in num:
-#         num_dic.append[i]
-#     return num_dic
-
-# sum_of_digit(num) # 16
+print(num_dic) # ['3', '9', '0', '6']
